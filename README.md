@@ -25,7 +25,7 @@
       
 1.[HashMap解决hash冲突的方法](https://github.com/Seasons123/blog-java/issues/2)  
 
-2.[Java程序员面试笔试宝典（何昊、薛鹏、叶向阳）](http://pan.baidu.com/s/1bpHAIlh) 还有其它经典的书籍（《编程之美》啦等等）都能免费下载到就不分享了
+2.[Java程序员面试笔试宝典（何昊、薛鹏、叶向阳）](http://pan.baidu.com/s/1bpHAIlh) 还有其它经典的书籍（《编程之美》《java编程思想》啦等等）都能免费下载到就不分享了。单独分享这一本主要是因为弄丢过一次，再也不会丢了 :smile:
 
 
 ## 三、java经典编程题          
