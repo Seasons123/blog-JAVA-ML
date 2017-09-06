@@ -1,6 +1,6 @@
 
 
-不积跬步 无以至千里 :balloon:
+:balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon: :balloon:
 
 ##  一、java 经典算法和编程          
       
@@ -32,7 +32,7 @@
       
 1.[2018美团：删除指定元素](https://github.com/Seasons123/blog-java/issues/2)  
 
-2.[2017京东：求两个集合的和{A} + {B}](http://www.voidcn.com/article/p-qqbglgpj-bas.html) 
+2.[2017京东：求两个集合的和{A} + {B}](https://github.com/Seasons123/blog-java/issues/11) 
 
 3.[2014Java笔试题金山网络](http://www.cnblogs.com/skylar/p/3657319.html) 
 
