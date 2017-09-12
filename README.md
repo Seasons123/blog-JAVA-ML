@@ -33,5 +33,5 @@
 
 2.[2017京东：求两个集合的和{A} + {B}](https://github.com/Seasons123/blog-java/issues/11) 
 
-3.[2014Java笔试题金山网络](http://www.cnblogs.com/skylar/p/3657319.html) 
+3.[2014Java笔试题金山网络](https://github.com/Seasons123/blog-java/issues/15) 
 
