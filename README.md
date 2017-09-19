@@ -31,7 +31,7 @@
 
 ## 三、java经典编程题          
       
-1.[2018美团：删除指定元素](https://github.com/Seasons123/blog-java/issues/2)  
+1.[2018美团：删除指定元素](https://github.com/Seasons123/blog-java/issues/3)  
 
 2.[2017京东：求两个集合的和{A} + {B}](https://github.com/Seasons123/blog-java/issues/11) 
 
